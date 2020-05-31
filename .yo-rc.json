@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.apitich.colocme",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "colocMe",
+    "packageName": "com.apitich.colocme",
+    "packageFolder": "com/apitich/colocme",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTI2NjVhZGM0M2FjMmQ2Y2E3MDQ1YWVjMDQ2YWQyZjgxY2Y5Y2ZhYzYwZjZiMjY5YTFhMGIyMmMzOGM1Njg3NGIxOTg4NGU2ZDcyMDdiN2RjNzZjNzdlOGQ5YjdiZWMzZjY2NTg0NzA2NTBlMjk0NmM4MjhjYmZjMGJhY2ViMGU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "sketchy",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1590934153430,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
